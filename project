@@ -21,3 +21,5 @@ def terscevirme(a):
     print(b)
     
 terscevirme(a)
+
+www.patika.dev
